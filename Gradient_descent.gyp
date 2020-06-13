@@ -33,4 +33,3 @@ def gradient_descent(x,y):
         gradient_descent(X,Y)
 
 
-# ths is a commant to test 
